@@ -1,4 +1,11 @@
-### Hi there 👋
+## Всем привет 👋 Меня зовут Анна!
+### Я занимаюсь HTML-версткой.
+_______________________________________
+#### Посмотри некоторые мои работы:
+
+* [Интернет магазин здорового питания HealthlyFood](https://nancymitt.github.io/Module02-Shop/dist)
+* [Фитнес GYM](https://nancymitt.github.io/Module01-Gym/)
+* [Бургерная Burgos](https://nancymitt.github.io/Module01-Burger/menu.html)
 
 <!--
 **Nancymitt/Nancymitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
