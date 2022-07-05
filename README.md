@@ -7,9 +7,9 @@ _______________________________________
 
 ##### ![favicon](https://github.com/Nancymitt/Module01-Gym/blob/main/images/favicon/favicon-32x32.png)[ Онлайн тренировки Gym](https://nancymitt.github.io/Module01-Gym/index.html)
 
-##### ! [ Десктопная версия чата в стиле MacOS] (https://nancymitt.github.io/Chatmacos/)
-
 ##### ![favicon](https://github.com/Nancymitt/Module01-Burger/blob/main/images/favicon/favicon-32x32.png)[ Сервис доставки бургеров Burgos](https://nancymitt.github.io/Module01-Burger/menu.html)
+
+##### * [ Десктопная версия чата в стиле MacOS](https://nancymitt.github.io/Chatmacos/)
 
 
 
