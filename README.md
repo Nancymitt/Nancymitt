@@ -1,6 +1,6 @@
 [![Header](https://github.com/Nancymitt/Nancymitt/blob/main/assets/logoName.png)]
 
-About me
+## I'm a Freelance user Interface Developer
 
 Languages and Tools
 
