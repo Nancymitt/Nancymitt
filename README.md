@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/Nancymitt/Nancymitt/blob/main/assets/logoName.png)]
 
 About me
 
