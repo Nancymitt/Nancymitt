@@ -2,8 +2,10 @@
 
 ## I'm a Freelance user Interface Developer
 
-Languages and Tools
-
+### Languages and Tools
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=E45126)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=0C73B8)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7E01D)
 Follow Me
 
 
