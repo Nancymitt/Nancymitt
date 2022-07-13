@@ -8,8 +8,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7E01D)
 
 ### Follow Me
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)
-![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram&logoColor=27A0D9)](https://t.me/Nancy_Woods)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=social&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/Nancy.Woods573)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancymitt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
