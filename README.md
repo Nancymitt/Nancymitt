@@ -2,17 +2,28 @@
 
 ## I'm a Freelance user Interface Developer
 
-### Languages and Tools
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=E45126)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=0C73B8)
+## - [ Интернет-магазин здорового питания Healthy Food](https://nancymitt.github.io/Module02-Shop/dist/)
+## - [ Сайт - портфолио web-разработчика](https://nancymitt.github.io/Module02-Portfolio/dist/)
+## - [ Онлайн тренировки Gym](https://nancymitt.github.io/Module01-Gym/index.html)
+## - [ Сервис доставки бургеров Burgos](https://nancymitt.github.io/Module01-Burger/menu.html)
+## - [ Десктопная версия чата в стиле MacOS](https://nancymitt.github.io/Chatmacos/)
+
+
+### Languages and Tools used
+![VSC](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E45126)
+![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=0C73B8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7E01D)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram&logoColor=27A0D9)](https://t.me/Nancy_Woods)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=social&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/Nancy.Woods573)
+[![Gmail](https://img.shields.io/badge/-gmail-090909?style=social&logo=Gmail&logoColor=#EA4335)](bnt2pac@gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancymitt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancymitt&layout=compact)
 
 
 
