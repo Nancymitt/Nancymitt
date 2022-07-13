@@ -3,11 +3,13 @@
 ## I'm a Freelance user Interface Developer
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=E45126)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=0C73B8)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=E45126)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=0C73B8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7E01D)
-Follow Me
 
+### Follow Me
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)
+![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)
 
 
 
