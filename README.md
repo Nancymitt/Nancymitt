@@ -20,7 +20,7 @@
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram&logoColor=27A0D9)](https://t.me/Nancy_Woods)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=social&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/Nancy.Woods573)
-[![Gmail](https://img.shields.io/badge/-gmail-090909?style=social&logo=Gmail&logoColor=#EA4335)](bnt2pac@gmail.com)
+[![Gmail](https://img.shields.io/badge/-gmail-090909?style=social&logo=Gmail&logoColor=#EA4335)](<bnt2pac@gmail.com>)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancymitt&layout=compact)
