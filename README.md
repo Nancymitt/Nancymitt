@@ -2,6 +2,7 @@
 
 ## I'm a Freelance user Interface Developer
 
+### These are some of my work:
 #### - [ Интернет-магазин здорового питания Healthy Food](https://nancymitt.github.io/Module02-Shop/dist/)
 #### - [ Сайт - портфолио web-разработчика](https://nancymitt.github.io/Module02-Portfolio/dist/)
 #### - [ Онлайн тренировки Gym](https://nancymitt.github.io/Module01-Gym/index.html)
@@ -20,7 +21,8 @@
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram&logoColor=27A0D9)](https://t.me/Nancy_Woods)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=social&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/Nancy.Woods573)
-[![Gmail](https://img.shields.io/badge/-gmail-090909?style=social&logo=Gmail&logoColor=#EA4335)](<bnt2pac@gmail.com>)
+<br>
+#### <bnt2pac@gmail.com>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancymitt&layout=compact)
