@@ -1,6 +1,6 @@
 ![Header](https://github.com/Nancymitt/Nancymitt/blob/main/assets/logoName.png)
 
-## I'm a Freelance user Interface Developer
+## Hello Everyone, I'm an HTML CSS JS Developer, I'm Looking For Job Opportunities, Don't Hesitate to Contact me
 
 ### These are some of my work:
 #### - [ Интернет-магазин здорового питания Healthy Food](https://nancymitt.github.io/Module02-Shop/dist/)
